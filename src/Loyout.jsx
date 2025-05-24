@@ -8,7 +8,6 @@ import {Scan} from './components/scan/scanHistory'
 
 
 export const Layout = () => {
-  bcscacsacsa
   return (
     <div>
       <Navigation />
